@@ -1,6 +1,3 @@
-// Tugas 3: Game Werewolf (Conditional dengan I/O)
-// File: Tugas 3/conditional.js
-
 const readline = require('readline');
 
 const rl = readline.createInterface({
